@@ -1,2 +1,0 @@
-# NorthwindBackend
- Katmanlar oluşturuldu
