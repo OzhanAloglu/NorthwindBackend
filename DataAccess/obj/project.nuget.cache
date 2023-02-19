@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EVrH4BG6yyXEBtBwdjLnc6QqVBskSSW6iCT3WTkRxk+ZUucJoy5tRXfEzuUWA8oG2Iqmsc/VUvNvZoMiWtcmhA==",
+  "dgSpecHash": "1g2YcmVPD7ty9Ug3tStwXWIeNOVqv4Rrm7afoYpUfeNDvzWMunm6x+wy/nXwsIn+5Pa2VnH2/D0NJ0oj1t4xxQ==",
   "success": true,
-  "projectFilePath": "C:\\C#\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

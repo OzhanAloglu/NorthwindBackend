@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\NorthwindBackend\\Entities\\Entities.csproj": {}
+    "C:\\Users\\User\\Desktop\\NorthwindBackend\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\C#\\NorthwindBackend\\Core\\Core.csproj": {
+    "C:\\Users\\User\\Desktop\\NorthwindBackend\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\NorthwindBackend\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\NorthwindBackend\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\C#\\NorthwindBackend\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\NorthwindBackend\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\NorthwindBackend\\Core\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\NorthwindBackend\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\C#\\NorthwindBackend\\Entities\\Entities.csproj": {
+    "C:\\Users\\User\\Desktop\\NorthwindBackend\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\NorthwindBackend\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\NorthwindBackend\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\C#\\NorthwindBackend\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\NorthwindBackend\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\NorthwindBackend\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\NorthwindBackend\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,8 +109,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\C#\\NorthwindBackend\\Core\\Core.csproj": {
-                "projectPath": "C:\\C#\\NorthwindBackend\\Core\\Core.csproj"
+              "C:\\Users\\User\\Desktop\\NorthwindBackend\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\NorthwindBackend\\Core\\Core.csproj"
               }
             }
           }
